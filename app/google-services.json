@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "848878321059",
+    "firebase_url": "https://slma-0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "slma-0",
+    "storage_bucket": "slma-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848878321059:android:fe859e87bfd34e27e02e16",
+        "android_client_info": {
+          "package_name": "com.bigloan.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848878321059-bh56r51aetrpbf0sh93p54k9d9lqgm9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9EBfmZOahKgjypFak7FMf5JFAUqYo41U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848878321059-bh56r51aetrpbf0sh93p54k9d9lqgm9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

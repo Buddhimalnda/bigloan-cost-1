@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#141414</color>
+    <color name="white">#F2F3F4FF</color>
+    <color name="primary">#00A7E1</color>
+    <color name="secondory">#003053</color>
+    <color name="tenry">#007EA7</color>
+    <color name="light_blue_400">#FF29B6F6</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="gray_400">#FFBDBDBD</color>
+    <color name="gray_600">#FF757575</color>
+</resources>
